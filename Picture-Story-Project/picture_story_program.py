@@ -1,6 +1,4 @@
-# Jacky Liu
 # May 22 2024
-# picture program scenes
 
 from graphics import*
 import winsound
@@ -3871,3 +3869,4 @@ def scene_three():
 chosen_spacecraft = scene_one()
 scene_two()
 scene_three()
+
